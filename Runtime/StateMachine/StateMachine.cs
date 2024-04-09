@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace DesignPatter.BaseStateMachine
+namespace DesignPattern.BaseStateMachine
 {
     public class StateMachine 
     {

@@ -1,4 +1,4 @@
-﻿namespace DesignPatter.BaseStateMachine
+﻿namespace DesignPattern.BaseStateMachine
 {
     public abstract class StateContext
     {
