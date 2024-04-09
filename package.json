@@ -1,0 +1,17 @@
+{
+  "name": "com.samuel-niccoli.design-pattern",
+  "version": "1.0.0",
+  "displayName": ".Design Pattern",
+  "description": "Some of my code I like to reuse to make my life easier. \nCurrently implement :\n- Singleton\n- State Machine",
+  "unity": "2022.1",
+  "keywords": [
+    "library",
+    "utility",
+    "design pattern"
+  ],
+  "author": {
+    "name": "Samuel Niccoli",
+    "email": "samuel.niccoli.pro@gmail.com",
+    "url": "https://ginahepro.github.io"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "samuel-niccoli.design-pattern.Tests",
+    "rootNamespace": "",
+    "references": [
+        "samuel-niccoli.design-pattern",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
