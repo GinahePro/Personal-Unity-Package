@@ -1,7 +1,9 @@
 {
     "name": "samuel-niccoli.design-pattern.Editor.Tests",
-    "rootNamespace": "",
-    "references": [],
+    "rootNamespace": "DesignPattern.Editor.Tests",
+    "references": [
+        "GUID:94e4397c80126a04f871fd06524bce60"
+    ],
     "includePlatforms": [
         "Editor"
     ],

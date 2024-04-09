@@ -1,6 +1,6 @@
 {
     "name": "samuel-niccoli.design-pattern",
-    "rootNamespace": "",
+    "rootNamespace": "DesignPattern",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
